@@ -1,4 +1,5 @@
-# Pesquisa_Clima2024
-Análise dos dados da pesquisa de clima GPTW 2024 - Sabesp
+# Pesquisa de Comunicação Interna 1 de 2024
+Análise dos dados - Sabesp
 
-A pesquisa de clima é realizada todos os anos, sendo competência das unidades sua análise e o entendimento das n variáveis que compõem a pesquisa. 
+A pesquisa é realizada três vezes por ano, sendo competência do departamento de planejamento sua análise e o entendimento das variáveis que a compõem. 
+
